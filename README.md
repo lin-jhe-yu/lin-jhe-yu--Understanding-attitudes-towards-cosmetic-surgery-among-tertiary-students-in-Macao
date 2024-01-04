@@ -145,6 +145,7 @@ Hirotsu, N. (2011) indicated that when changing batting order with the same play
 * 2023 Chicago White Sox White Sox Roster & Staff. (n.d.). Retrieved May 6, 2023, from https://www.mlb.com/whitesox/roster
 
 ## Project Team
-* Jhe Yu (Lawrence) Lin
-* Lok I (Minnie) Lou 
-* HOI KEI (Joanne) TANG
+* Jhe Yu Lin
+* Wei Heng Khoo
+* Wan Qi Tan
+* Khai Min Teo
