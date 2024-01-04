@@ -2,6 +2,7 @@
 <sup>Photo by cottonbro studio: https://www.pexels.com/photo/hands-woman-young-face-7585311/
 # Understanding attitudes towards cosmetic surgery among tertiary students in Macao
 The book and movie “Moneyball” tells the story of Billy Beane, the Oakland Athletics general manager who put together a competitive baseball team despite having a restricted budget. His “secret” was the strategic use of data-driven methodology. I was inspired by this movie, so I used it to propose a data analysis project for a “Business Modeling and Simulation” course.
+https://github.com/lin-jhe-yu/lin-jhe-yu--Understanding-attitudes-towards-cosmetic-surgery-among-tertiary-students-in-Macao/blob/39572de7101156af4f6810418a5cb6dbd95c1fbf/HONR1000-009%20Project%20Report.pdf
 
 ## Problem Description
 In the 2022 regular season, the Chicago White Sox team lost half of their series (win rate of 0.5) and failed to advance to the playoffs. Therefore, our project aims to improve its performance and provide the best lineup. By examining different lineup possibilities and using statistical analyses, we hope to identify the most effective combination of players for each position.
